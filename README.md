@@ -32,7 +32,6 @@ Languages:    Python · R · SQL
 - Salesforce — Business Process Mapping
 - Tableau — Desktop Specialist
 - LinkedIn Learning — Business Analyst Path
-- Cisco — Junior Cybersecurity Analyst
 
 ---
 
