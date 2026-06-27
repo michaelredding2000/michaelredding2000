@@ -8,9 +8,9 @@ Computer Science graduate (University of Mary Washington, 2023) with a backgroun
 
 | Project | Description | Tools |
 |---|---|---|
-| [Patient No-Show Analysis](https://github.com/mike111123/patient-noshow-sql-analysis) | Root-cause analysis of 110,527 medical appointments — surfaced SMS data quality issue and lead-time as primary no-show drivers | PostgreSQL · pgAdmin |
-| [Budget vs. Actuals Tracker](https://github.com/mike111123/budget-vs-actuals-excel) | 4-tab Excel workbook with Power Query, Pivot Tables, and conditional formatting dashboard for a 12-employee marketing agency | Microsoft Excel |
-| [Employee Attrition Dashboard](https://github.com/mike111123/employee-attrition-tableau) | 3-view Tableau Public dashboard identifying 52% attrition rate in high-risk Sales Rep cohort from IBM HR dataset | Tableau Public |
+| [Patient No-Show Analysis](https://github.com/michaelredding2000/patient-noshow-sql-analysis) | Root-cause analysis of 110,527 medical appointments — surfaced SMS data quality issue and lead-time as primary no-show drivers | PostgreSQL · pgAdmin |
+| [Budget vs. Actuals Tracker](https://github.com/michaelredding2000/budget-vs-actuals-excel) | 4-tab Excel workbook with Power Query, Pivot Tables, and conditional formatting dashboard for a 12-employee marketing agency | Microsoft Excel |
+| [Employee Attrition Dashboard](https://github.com/michaelredding2000/employee-attrition-tableau) | 3-view Tableau Public dashboard identifying 52% attrition rate in high-risk Sales Rep cohort from IBM HR dataset | Tableau Public |
 
 ---
 
@@ -37,4 +37,4 @@ Languages:    Python · R · SQL
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mike--redding-blue)](https://www.linkedin.com/in/mike-redding-392292218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mike--redding-blue)](https://www.linkedin.com/in/mikeredding1)
