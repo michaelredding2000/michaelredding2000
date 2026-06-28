@@ -21,6 +21,7 @@ Analytics:    SQL (PostgreSQL) · Tableau Public · Excel (Pivot, Power Query) �
 BA Tools:     Jira · Confluence · Figma · Lucidchart · BPMN 2.0 · BRD/FSD Documentation
 Other:        Requirements Gathering · MoSCoW Prioritization · Data Visualization · Windows / Linux
 
+```
 ---
 
 ## 📜 Certifications
