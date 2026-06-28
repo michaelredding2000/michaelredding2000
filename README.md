@@ -1,6 +1,6 @@
 # Mike Redding | Business Analyst & Data Professional
 
-Computer Science graduate (University of Mary Washington, 2023) with a background in database engineering, healthcare IT, and business analytics. Currently focused on entry-level Business Analyst and Data Analyst roles where I can apply SQL, Excel, and Tableau skills to drive data-driven decisions.
+Business Analyst & Data Analyst with hands-on project experience in SQL, Excel, and Tableau. Computer Science graduate (University of Mary Washington, 2023) building data-driven solutions across healthcare operations, financial tracking, and HR analytics. Actively seeking entry-level BA/DA roles in the DMV area.
 
 ---
 
