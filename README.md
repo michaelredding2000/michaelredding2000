@@ -19,9 +19,7 @@ Business Analyst & Data Analyst with hands-on project experience in SQL, Excel, 
 ```
 Analytics:    SQL (PostgreSQL) · Tableau Public · Excel (Pivot, Power Query) · KPI Tracking
 BA Tools:     Jira · Confluence · Figma · Lucidchart · BPMN 2.0 · BRD/FSD Documentation
-Databases:    Oracle 19c · MS SQL Server 2022 · PL/SQL · T-SQL
-Languages:    Python · R · SQL
-```
+Other:        Requirements Gathering · MoSCoW Prioritization · Data Visualization · Windows / Linux
 
 ---
 
