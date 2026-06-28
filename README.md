@@ -35,4 +35,4 @@ Other:        Requirements Gathering · MoSCoW Prioritization · Data Visualizat
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mike--redding-blue)](https://www.linkedin.com/in/mikeredding1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mike_Redding-blue)](https://www.linkedin.com/in/mikeredding1)
